@@ -1,7 +1,0 @@
-[general]
-showSignupPrompt = false
-[ui]
-primaryColor = "#262730"  # Dark theme
-secondaryBackgroundColor = "#46485F"
-textColor = "#FFFFFF"
-font = "monospace"
